@@ -1,1 +1,1 @@
-Updated here i dont really know what it wants
+This is a repository for the first lesson at Holberton
